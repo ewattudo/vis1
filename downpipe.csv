@@ -1,0 +1,150 @@
+Program,Status,Applications
+Biology,Admit,9
+Biology,Admit-Coming,24
+Biology,Admit-Withdrawn,3
+Biology,Complete App,18
+Biology,Deferred to Spring,1
+Biology,Denied,5
+Biology,Started App,9
+Biology,Submitted App,3
+Biology,Withdrawn,1
+Biology: Computational and Integrative,Admit,7
+Biology: Computational and Integrative,Admit-Coming,27
+Biology: Computational and Integrative,Admit-Not Coming,3
+Biology: Computational and Integrative,Admit-Withdrawn,13
+Biology: Computational and Integrative,Alternative Admission,4
+Biology: Computational and Integrative,Complete App,2
+Biology: Computational and Integrative,Deferred to Fall,1
+Biology: Computational and Integrative,Denied,51
+Biology: Computational and Integrative,Started App,26
+Biology: Computational and Integrative,Submitted App,6
+Biology: Computational and Integrative,Withdrawn,5
+Business and Science,Admit,1
+Business and Science,Admit-Coming,3
+Business and Science,Complete App,1
+Business and Science,Started App,14
+Business and Science,Submitted App,6
+Business and Science,Withdrawn,1
+Chemistry,Admit,10
+Chemistry,Admit-Coming,14
+Chemistry,Admit-Withdrawn,2
+Chemistry,Denied,10
+Chemistry,Started App,3
+Chemistry,Submitted App,3
+Chemistry,Withdrawn,2
+Childhood Studies,Admit,4
+Childhood Studies,Admit-Coming,12
+Childhood Studies,Admit-Withdrawn,5
+Childhood Studies,Alternative Admission,2
+Childhood Studies,Complete App,1
+Childhood Studies,Denied,15
+Childhood Studies,Started App,13
+Childhood Studies,Submitted App,5
+Computer Science,Admit,71
+Computer Science,Admit-Coming,27
+Computer Science,Admit-Not Coming,1
+Computer Science,Admit-Withdrawn,9
+Computer Science,Complete App,2
+Computer Science,Denied,61
+Computer Science,Started App,39
+Computer Science,Submitted App,36
+Computer Science,Withdrawn,2
+Creative Writing,Admit,1
+Creative Writing,Admit-Coming,8
+Creative Writing,Admit-Withdrawn,3
+Creative Writing,Denied,90
+Creative Writing,Started App,19
+Creative Writing,Waitlisted,11
+Creative Writing,Withdrawn,5
+Criminal Justice,Admit,1
+Criminal Justice,Admit-Coming,19
+Criminal Justice,Admit-Not Coming,2
+Criminal Justice,Admit-Withdrawn,1
+Criminal Justice,Denied,3
+Criminal Justice,Started App,12
+Criminal Justice,Submitted App,10
+Data Science,Admit,69
+Data Science,Admit-Coming,83
+Data Science,Admit-Not Coming,8
+Data Science,Admit-Withdrawn,11
+Data Science,Complete App,10
+Data Science,Deferred to Spring,1
+Data Science,Denied,49
+Data Science,Started App,126
+Data Science,Submitted App,50
+English,Admit,20
+English,Admit-Coming,15
+English,Admit-Not Coming,1
+English,Admit-Withdrawn,18
+English,Complete App,4
+English,Deferred to Fall,1
+English,Denied,11
+English,Started App,11
+English,Submitted App,4
+Forensic Science,Admit,4
+Forensic Science,Admit-Coming,9
+Forensic Science,Admit-Withdrawn,3
+Forensic Science,Denied,5
+Forensic Science,Started App,14
+Forensic Science,Submitted App,3
+History,Admit,4
+History,Admit-Coming,13
+History,Admit-Withdrawn,7
+History,Deferred to Fall,1
+History,Started App,2
+Liberal Studies,Admit,1
+Liberal Studies,Admit-Coming,5
+Liberal Studies,Admit-Not Coming,1
+Liberal Studies,Admit-Withdrawn,2
+Liberal Studies,Deferred to Spring,1
+Liberal Studies,Started App,13
+Liberal Studies,Submitted App,1
+Mathematical Sciences,Admit,7
+Mathematical Sciences,Admit-Coming,6
+Mathematical Sciences,Admit-Not Coming,1
+Mathematical Sciences,Complete App,1
+Mathematical Sciences,Denied,1
+Mathematical Sciences,Submitted App,2
+Prevention Science,Admit,4
+Prevention Science,Admit-Coming,15
+Prevention Science,Admit-Withdrawn,6
+Prevention Science,Alternative Admission,2
+Prevention Science,Deferred to Fall,1
+Prevention Science,Deferred to Spring,1
+Prevention Science,Denied,45
+Prevention Science,Started App,6
+Prevention Science,Submitted App,1
+Prevention Science,Withdrawn,1
+Psychology,Admit,3
+Psychology,Admit-Coming,16
+Psychology,Admit-Not Coming,1
+Psychology,Admit-Withdrawn,6
+Psychology,Complete App,107
+Psychology,Denied,6
+Psychology,Started App,29
+Psychology,Submitted App,17
+Public Administration,Admit,7
+Public Administration,Admit-Coming,18
+Public Administration,Admit-Not Coming,1
+Public Administration,Admit-Withdrawn,2
+Public Administration,Complete App,4
+Public Administration,Denied,3
+Public Administration,Started App,17
+Public Administration,Submitted App,8
+Public Administration,Withdrawn,2
+Public Affairs,Admit,3
+Public Affairs,Admit-Coming,6
+Public Affairs,Admit-Withdrawn,3
+Public Affairs,Alternative Admission,3
+Public Affairs,Complete App,58
+Public Affairs,Deferred to Fall,1
+Public Affairs,Denied,22
+Public Affairs,Started App,12
+Public Affairs,Submitted App,4
+Public Affairs,Withdrawn,2
+Teacher Education,Admit-Coming,2
+Teacher Education,Complete App,4
+Teacher Education,Started App,7
+Teacher Education,Submitted App,8
+Teacher Education - Spanish,Admit-Coming,2
+Teacher Education - Spanish,Started App,1
