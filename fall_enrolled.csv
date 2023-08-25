@@ -1,0 +1,236 @@
+﻿Index,Race,Domestic/International,Gender,Age,Mailing City,Mailing State/Province,Mailing Country,Program,Status,Enrolled
+1,American Indian or Alaska Native,Domestic,Female,23,Deptford,New Jersey,United States of America,Biology,Admit-Coming,Enrolled
+2,American Indian or Alaska Native,Domestic,Female,47,Lawnside,New Jersey,United States of America,History,Admit-Coming,Enrolled
+3,Asian,International,Female,21,Hyderabad,Telangana,India,Biology,Admit-Coming,Enrolled
+4,Asian,Domestic,Female,22,Pennsauken,New Jersey,United States of America,Biology,Admit-Coming,Enrolled
+5,Asian,International,Male,23,Kodad,,India,Biology,Admit-Coming,Enrolled
+6,Asian,International,Female,22,Hyderabad,Telangana,India,Biology,Admit-Coming,Enrolled
+7,Asian,International,Male,26,SWAT,KHYBER PAKHTUNKHWA,Pakistan,Biology,Admit-Coming,Enrolled
+8,Asian,Domestic,Female,20,Mickleton,New Jersey,United States of America,Biology,Admit-Coming,Enrolled
+9,Asian,International,Male,30,Howrah,West Bengal,India,Biology: Computational and Integrative,Admit-Coming,Enrolled
+10,Asian,International,Female,33,Dhaka,,Bangladesh,Biology: Computational and Integrative,Admit-Coming,Enrolled
+11,Asian,International,Male,26,Sambalpur,Odisha,India,Biology: Computational and Integrative,Admit-Coming,Enrolled
+12,Asian,International,Male,22,CARY,NC,,Biology: Computational and Integrative,Admit-Coming,Enrolled
+13,Asian,Domestic,Male,22,East Brunswick,New Jersey,United States of America,Biology: Computational and Integrative,Admit-Coming,Enrolled
+14,Asian,Domestic,Female,36,Edison,New Jersey,United States of America,Biology: Computational and Integrative,Admit-Coming,Enrolled
+15,Asian,Domestic,Female,26,London,Ontario,Canada,Business and Science,Admit-Coming,Enrolled
+16,Asian,International,Female,21,KUNJPURA,HARYANA,India,Chemistry,Admit-Coming,Enrolled
+17,Asian,Domestic,Female,35,CALDWELL,NJ,,Childhood Studies,Admit-Coming,Enrolled
+18,Asian,International,Female,29,San Juan City,Metro Manila,Philippines,Childhood Studies,Admit-Coming,Enrolled
+19,Asian,Domestic,Male,24,Sewell,New Jersey,United States of America,Childhood Studies,Admit-Coming,Enrolled
+20,Asian,International,Male,26,Mandsaur,Madhya Pradesh,India,Computer Science,Admit-Coming,Enrolled
+21,Asian,International,Female,27,Mysore,Karnataka,India,Computer Science,Admit-Coming,Enrolled
+22,Asian,International,Female,21,Vijayawada,Andhra Pradesh,India,Computer Science,Admit-Coming,Enrolled
+23,Asian,International,Female,24,Chittagong,,Bangladesh,Computer Science,Admit-Coming,Enrolled
+24,Asian,International,Male,23,Chennai,Tamil Nadu,India,Computer Science,Admit-Coming,Enrolled
+25,Asian,Domestic,Male,22,Voorhees,New Jersey,United States of America,Criminal Justice,Admit-Coming,Enrolled
+26,Asian,Domestic,Female,22,CHERRY HILL,NJ,,Criminal Justice,Admit-Coming,Enrolled
+27,Asian,International,Male,22,AHMEDABAD,GUJARAT,India,Data Science,Admit-Coming,Enrolled
+28,Asian,International,Female,22,Bangalore,Karnataka,India,Data Science,Admit-Coming,Enrolled
+29,Asian,International,Female,28,Visakhapatnam,Andhra Pradesh,India,Data Science,Admit-Coming,Enrolled
+30,Asian,International,Female,23,Bengaluru,Karnataka,India,Data Science,Admit-Coming,Enrolled
+31,Asian,International,Male,25,Chennai,TAMILNADU,India,Data Science,Admit-Coming,Enrolled
+32,Asian,International,Male,24,New Delhi,Delhi,India,Data Science,Admit-Coming,Enrolled
+33,Asian,International,Male,21,THANE,,INDIA,Data Science,Admit-Coming,Enrolled
+34,Asian,International,Male,23,Mumbai,Maharashtra,India,Data Science,Admit-Coming,Enrolled
+35,Asian,International,Male,22,Vapi,Gujarat,India,Data Science,Admit-Coming,Enrolled
+36,Asian,International,Male,24,Pune,Maharashtra,India,Data Science,Admit-Coming,Enrolled
+37,Asian,International,Male,26,LAWRENCE,KS,,Data Science,Admit-Coming,Enrolled
+38,Asian,International,Male,28,Mysore,Karnataka,India,Data Science,Admit-Coming,Enrolled
+39,Asian,Domestic,Female,22,DURG,Chhattisgarh,India,Data Science,Admit-Coming,Enrolled
+40,Asian,International,Male,21,Hyderabad,Telangana,India,Data Science,Admit-Coming,Enrolled
+41,Asian,International,Male,21,Vadodara,Gujarat,India,Data Science,Admit-Coming,Enrolled
+42,Asian,International,Male,23,Bengaluru,Karnataka,India,Data Science,Admit-Coming,Enrolled
+43,Asian,International,Male,25,Navi Mumbai,Maharashtra,India,Data Science,Admit-Coming,Enrolled
+44,Asian,International,Male,21,Visakhapatnam,Andhra Pradesh,India,Data Science,Admit-Coming,Enrolled
+45,Asian,International,Male,21,Tenali,,India,Data Science,Admit-Coming,Enrolled
+46,Asian,Domestic,Male,23,Pennsauken,New Jersey,United States of America,Data Science,Admit-Coming,Enrolled
+47,Asian,Domestic,Female,22,Gibbsboro,New Jersey,United States of America,Forensic Science,Admit-Coming,Enrolled
+48,Asian,Domestic,Male,36,Northfield,MN,United States of America,Liberal Studies,Admit-Coming,Enrolled
+49,Asian,International,Male,42,SINGAPORE,SINGAPORE,Singapore,Mathematical Sciences,Admit-Coming,Enrolled
+50,Asian,International,Male,27,Sylva,North Carolina,United States of America,Prevention Science,Admit-Coming,Enrolled
+51,Asian,International,Female,28,Distt Kullu,Himachal Pradesh,India,Prevention Science,Admit-Coming,Enrolled
+52,Asian,Domestic,Female,22,MAYS LANDING,NJ,,Psychology,Admit-Coming,Enrolled
+53,Asian,International,Female,27,Shanghai,,China,Psychology,Admit-Coming,Enrolled
+54,Asian,Domestic,Male,22,AUDUBON,NJ,United States of America,Psychology,Admit-Coming,Enrolled
+55,Asian,Domestic,Female,25,Cherry Hill,New Jersey,United States of America,Public Administration,Admit-Coming,Enrolled
+56,Asian,Domestic,Male,29,Deptford,New Jersey,United States of America,Public Administration,Admit-Coming,Enrolled
+57,Asian,International,Male,27,Lanzhou,Gansu,China,Public Affairs,Admit-Coming,Enrolled
+58,Black or African American,International,Male,28,Abuja,Federal Capital Territory,Nigeria,Biology,Admit-Coming,Enrolled
+59,Black or African American,International,Male,26,Plainfield,New Jersey,United States of America,Biology: Computational and Integrative,Admit-Coming,Enrolled
+60,Black or African American,International,Female,35,Cleveland,Ohio,United States of America,Biology: Computational and Integrative,Admit-Coming,Enrolled
+61,Black or African American,International,Male,39,Somolu LGA,Lagos,Nigeria,Biology: Computational and Integrative,Admit-Coming,Enrolled
+62,Black or African American,International,Female,24,Abeokuta,Ogun,Nigeria,Biology: Computational and Integrative,Admit-Coming,Enrolled
+63,Black or African American,International,Female,36,Atebubu,Bono East,Ghana,Business and Science,Admit-Coming,Enrolled
+64,Black or African American,International,Male,28,London,,United Kingdom,Business and Science,Admit-Coming,Enrolled
+65,Black or African American,International,Male,21,Port Harcourt,Rivers,Nigeria,Chemistry,Admit-Coming,Enrolled
+66,Black or African American,Domestic,Female,49,Pennsauken,New Jersey,United States of America,Childhood Studies,Admit-Coming,Enrolled
+67,Black or African American,Domestic,Male,29,CHARLOTT HALL,MD,,Creative Writing,Admit-Coming,Enrolled
+68,Black or African American,Domestic,Male,22,PHILADELPHIA,PA,,Criminal Justice,Admit-Coming,Enrolled
+69,Black or African American,Domestic,Female,25,Haddon Township,New Jersey,United States of America,Criminal Justice,Admit-Coming,Enrolled
+70,Black or African American,Domestic,Female,28,WILLINGBORO,NJ,,Criminal Justice,Admit-Coming,Enrolled
+71,Black or African American,Domestic,Female,23,Newark,New Jersey,United States of America,Criminal Justice,Admit-Coming,Enrolled
+72,Black or African American,International,Male,37,Lagos,,Nigeria,Criminal Justice,Admit-Coming,Enrolled
+73,Black or African American,Domestic,Female,22,Toms River,New Jersey,United States of America,Data Science,Admit-Coming,Enrolled
+74,Black or African American,International,Male,31,FCT,Abuja,Nigeria,Data Science,Admit-Coming,Enrolled
+75,Black or African American,Domestic,Male,23,WINDSOR LOCKS,CT,,Data Science,Admit-Coming,Enrolled
+76,Black or African American,International,Male,26,Surulere,Lagos,Nigeria,Data Science,Admit-Coming,Enrolled
+77,Black or African American,International,Male,23,Igando Phase I,Lagos,Nigeria,Data Science,Admit-Coming,Enrolled
+78,Black or African American,International,Male,29,Nairobi,Kenya,Kenya,Data Science,Admit-Coming,Enrolled
+79,Black or African American,International,Male,43,Makurdi,,Nigeria,English,Admit-Coming,Enrolled
+80,Black or African American,International,Female,22,Lagos,Lagos,Nigeria,English,Admit-Coming,Enrolled
+81,Black or African American,International,Male,27,Accra,Greater Accra,Ghana,Forensic Science,Admit-Coming,Enrolled
+82,Black or African American,International,Male,26,Nairobi,Mombasa,Kenya,Forensic Science,Admit-Coming,Enrolled
+83,Black or African American,Domestic,Male,24,Budd Lake,New Jersey,United States of America,History,Admit-Coming,Enrolled
+84,Black or African American,Domestic,Female,21,GALLOWAY,NJ,,History,Admit-Coming,Enrolled
+85,Black or African American,Domestic,Female,61,Cranford,New Jersey,United States of America,Liberal Studies,Admit-Coming,Enrolled
+86,Black or African American,Domestic,Female,24,Austin,Texas,United States of America,Liberal Studies,Admit-Coming,Enrolled
+87,Black or African American,Domestic,Female,24,Pennsauken,New Jersey,United States of America,Liberal Studies,Admit-Coming,Enrolled
+88,Black or African American,International,Male,31,Farato,Farato village,Gambia,Mathematical Sciences,Admit-Coming,Enrolled
+89,Black or African American,International,Female,26,Las Vegas,New Mexico,United States of America,Prevention Science,Admit-Coming,Enrolled
+90,Black or African American,Domestic,Male,40,Williamstown,New Jersey,United States of America,Prevention Science,Admit-Coming,Enrolled
+91,Black or African American,International,Female,35,Nassau,,Bahamas,Prevention Science,Admit-Coming,Enrolled
+92,Black or African American,International,Male,35,Jos,Plateau/Nigeria,Nigeria,Prevention Science,Admit-Coming,Enrolled
+93,Black or African American,International,Female,25,Harare,Harare,Zimbabwe,Psychology,Admit-Coming,Enrolled
+94,Black or African American,Domestic,Female,22,Camden,New Jersey,United States of America,Psychology,Admit-Coming,Enrolled
+95,Black or African American,International,Male,34,Kaduna South,Select State,Nigeria,Psychology,Admit-Coming,Enrolled
+96,Black or African American,Domestic,Female,22,ABINGTON,PA,,Psychology,Admit-Coming,Enrolled
+97,Black or African American,Domestic,Female,22,Newtonville,New Jersey,United States of America,Public Administration,Admit-Coming,Enrolled
+98,Black or African American,International,Male,32,Ziope,Volta Region,Ghana,Public Administration,Admit-Coming,Enrolled
+99,Black or African American,International,Female,27,Kumasi,N/A,Ghana,Public Administration,Admit-Coming,Enrolled
+100,Black or African American,Domestic,Male,29,Philadelphia,Pennsylvania,United States of America,Public Administration,Admit-Coming,Enrolled
+101,Black or African American,International,Female,38,Ogun,Ikenne,Nigeria,Public Administration,Admit-Coming,Enrolled
+102,Black or African American,Domestic,Male,27,wimauma,Florida,United States of America,Public Administration,Admit-Coming,Enrolled
+103,Black or African American,Domestic,Male,35,Trenton,New Jersey,United States of America,Public Administration,Admit-Coming,Enrolled
+104,Black or African American,Domestic,Female,44,MONMOUTH JUNCTION,NJ,,Public Administration,Admit-Coming,Enrolled
+105,Black or African American,Domestic,Female,53,Ewing,New Jersey,United States of America,Public Administration,Admit-Coming,Enrolled
+106,Black or African American,Domestic,Male,26,MOUNT LAUREL,NJ,,Public Administration,Admit-Coming,Enrolled
+107,Black or African American,Domestic,Male,52,PHILADELPHIA,PA,,Public Administration,Admit-Coming,Enrolled
+108,Black or African American,Domestic,Female,58,SKILLMAN,NJ,,Public Administration,Admit-Coming,Enrolled
+109,Black or African American,International,Female,36,Makurdi,Benue,Nigeria,Public Affairs,Admit-Coming,Enrolled
+110,Black or African American,Domestic,Female,28,Trenton,New Jersey,United States of America,Public Affairs,Admit-Coming,Enrolled
+111,Black or African American,International,Male,30,Ipaja,Lagos,Nigeria,Public Affairs,Admit-Coming,Enrolled
+112,Black or African American,Domestic,Female,61,Berlin,New Jersey,United States of America,Public Affairs,Admit-Coming,Enrolled
+113,Black or African American,International,Female,26,Enugu,Enugu,Nigeria,Public Affairs,Admit-Coming,Enrolled
+114,Black or African American,Domestic,Female,47,Somerset,New Jersey,United States of America,Teacher Education,Admit-Coming,Enrolled
+115,Black or African American,Domestic,Female,24,Blackwood,New Jersey,United States of America,Teacher Education,Admit-Coming,Enrolled
+116,Black or African American,Domestic,Female,27,PORTLAND,OR,,Teacher Education - Spanish,Admit-Coming,Enrolled
+117,Blank or Other,International,Female,26,Pune,,India,Biology: Computational and Integrative,Admit-Coming,Enrolled
+118,Blank or Other,International,Female,21,Hapur,Uttar Pradesh,India,Computer Science,Admit-Coming,Enrolled
+119,Blank or Other,Domestic,Male,25,Voorhees,New Jersey,United States of America,Data Science,Admit-Coming,Enrolled
+120,Blank or Other,International,Male,23,Bhavnagar,Gujarat,India,Data Science,Admit-Coming,Enrolled
+121,Blank or Other,International,Male,22,Jangareddigudem,Andhra Pradesh,India,Data Science,Admit-Coming,Enrolled
+122,Blank or Other,International,Male,25,Accra,American Town,Ghana,Forensic Science,Admit-Coming,Enrolled
+123,Blank or Other,Domestic,Male,23,Jupiter,Florida,United States of America,Psychology,Admit-Coming,Enrolled
+124,Blank or Other,Domestic,Female,25,Erie,Pennsylvania,United States of America,Psychology,Admit-Coming,Enrolled
+125,Blank or Other,Domestic,Female,22,GRAND RAPIDS,MI,,Psychology,Admit-Coming,Enrolled
+126,Blank or Other,Domestic,Female,42,YARDLEY,PA,,Public Administration,Admit-Coming,Enrolled
+127,Blank or Other,International,Female,33,Cairo,Egypt,Egypt,Public Affairs,Admit-Coming,Enrolled
+128,Hispanic or Latino,Domestic,Female,22,Point Pleasant Boro,New Jersey,United States of America,Biology,Admit-Coming,Enrolled
+129,Hispanic or Latino,International,Female,31,STATEN ISLAND,New York,United States of America,Biology: Computational and Integrative,Admit-Coming,Enrolled
+130,Hispanic or Latino,Domestic,Female,27,Kannapolis,North Carolina,United States of America,Childhood Studies,Admit-Coming,Enrolled
+131,Hispanic or Latino,Domestic,Female,21,OAKLYN,NJ,,Criminal Justice,Admit-Coming,Enrolled
+132,Hispanic or Latino,Domestic,Female,22,Camden,New Jersey,United States of America,Criminal Justice,Admit-Coming,Enrolled
+133,Hispanic or Latino,Domestic,Male,23,Pennsauken,New Jersey,United States of America,Criminal Justice,Admit-Coming,Enrolled
+134,Hispanic or Latino,Domestic,Female,22,Burlington,New Jersey,United States of America,Data Science,Admit-Coming,Enrolled
+135,Hispanic or Latino,Domestic,Female,33,PHILADELPHIA,PA,,Data Science,Admit-Coming,Enrolled
+136,Hispanic or Latino,Domestic,Female,22,Glendale,New York,United States of America,History,Admit-Coming,Enrolled
+137,Hispanic or Latino,Domestic,Male,32,Santa Cruz,California,United States of America,Liberal Studies,Admit-Coming,Enrolled
+138,Hispanic or Latino,Domestic,Male,25,Belleville,New Jersey,United States of America,Mathematical Sciences,Admit-Coming,Enrolled
+139,Hispanic or Latino,Domestic,Male,25,Cherry Hill,New Jersey,United States of America,Public Administration,Admit-Coming,Enrolled
+140,Hispanic or Latino,Domestic,Female,26,Palisades Park,New Jersey,United States of America,Public Administration,Admit-Coming,Enrolled
+141,Hispanic or Latino,Domestic,Female,48,WESTFIELD,NJ,,Public Affairs,Admit-Coming,Enrolled
+142,Hispanic or Latino,Domestic,Male,35,Ewing,New Jersey,United States of America,Public Affairs,Admit-Coming,Enrolled
+143,Hispanic or Latino,Domestic,Female,24,Willingboro,New Jersey,United States of America,Teacher Education,Admit-Coming,Enrolled
+144,Hispanic or Latino,Domestic,Male,38,Hamilton,New Jersey,United States of America,Teacher Education - Spanish,Admit-Coming,Enrolled
+145,Hispanic or Latino,Domestic,Female,31,Camden,New Jersey,United States of America,Teacher Education - Spanish,Admit-Coming,Enrolled
+146,White,International,Female,30,Tehran,Tehran,"Iran, Islamic Republic Of",Biology,Admit-Coming,Enrolled
+147,White,Domestic,Female,22,HADDON TOWNSHIP,NJ,,Biology,Admit-Coming,Enrolled
+148,White,Domestic,Male,27,MARLTON,NJ,,Biology,Admit-Coming,Enrolled
+149,White,Domestic,Female,22,EWING,NJ,,Biology,Admit-Coming,Enrolled
+150,White,Domestic,Female,22,SWARTHMORE,PA,,Biology,Admit-Coming,Enrolled
+151,White,Domestic,Female,22,TRENTON,NJ,,Biology,Admit-Coming,Enrolled
+152,White,International,Female,25,Zurich,Zurich,Switzerland,Biology,Admit-Coming,Enrolled
+153,White,Domestic,Female,22,Falls,Pennsylvania,United States of America,Biology: Computational and Integrative,Admit-Coming,Enrolled
+154,White,Domestic,Male,26,CHERRY HILL,NJ,,Biology: Computational and Integrative,Admit-Coming,Enrolled
+155,White,International,Male,42,PHILADELPHIA,PA,,Biology: Computational and Integrative,Admit-Coming,Enrolled
+156,White,Domestic,Female,24,Washington Crossing,Pennsylvania,United States of America,Biology: Computational and Integrative,Admit-Coming,Enrolled
+157,White,Domestic,Female,24,MILLERSVILLE,PA,,Biology: Computational and Integrative,Admit-Coming,Enrolled
+158,White,Domestic,Female,25,Rockaway,New Jersey,United States of America,Biology: Computational and Integrative,Admit-Coming,Enrolled
+159,White,Domestic,Female,26,Philadelphia,Pennsylvania,United States of America,Biology: Computational and Integrative,Admit-Coming,Enrolled
+160,White,Domestic,Male,32,Cinnaminson,New Jersey,United States of America,Biology: Computational and Integrative,Admit-Coming,Enrolled
+161,White,Domestic,Male,26,Valley City,Ohio,United States of America,Biology: Computational and Integrative,Admit-Coming,Enrolled
+162,White,Domestic,Female,25,Charleston,South Carolina,United States of America,Chemistry,Admit-Coming,Enrolled
+163,White,Domestic,Female,40,Minneapolis,Minnesota,United States of America,Childhood Studies,Admit-Coming,Enrolled
+164,White,Domestic,Female,51,Haddon Heights,New Jersey,United States of America,Childhood Studies,Admit-Coming,Enrolled
+165,White,International,Female,29,Piscataway,New Jersey,United States of America,Childhood Studies,Admit-Coming,Enrolled
+166,White,Domestic,Female,23,LINWOOD,NJ,,Childhood Studies,Admit-Coming,Enrolled
+167,White,Domestic,Male,28,LUBBOCK,TX,,Creative Writing,Admit-Coming,Enrolled
+168,White,Domestic,Female,22,Tallahassee,Florida,United States of America,Creative Writing,Admit-Coming,Enrolled
+169,White,Domestic,Female,22,Sewell,New Jersey,United States of America,Creative Writing,Admit-Coming,Enrolled
+170,White,Domestic,Female,28,Brooklyn,New York,United States of America,Creative Writing,Admit-Coming,Enrolled
+171,White,Domestic,Female,23,Audubon,New Jersey,United States of America,Creative Writing,Admit-Coming,Enrolled
+172,White,Domestic,Female,30,WASHINGTON CROSSING,PA,,Creative Writing,Admit-Coming,Enrolled
+173,White,Domestic,Male,23,Williamstown,New Jersey,United States of America,Criminal Justice,Admit-Coming,Enrolled
+174,White,Domestic,Female,25,Voorhees,New Jersey,United States of America,Criminal Justice,Admit-Coming,Enrolled
+175,White,International,Male,33,Taif,Makkah,Saudi Arabia,Criminal Justice,Admit-Coming,Enrolled
+176,White,Domestic,Female,22,Marlton,New Jersey,United States of America,Criminal Justice,Admit-Coming,Enrolled
+177,White,Domestic,Female,26,WEST BERLIN,NJ,,Criminal Justice,Admit-Coming,Enrolled
+178,White,International,Female,34,Morris Plains,New Jersey,United States of America,Data Science,Admit-Coming,Enrolled
+179,White,Domestic,Female,23,Lees Summit,Missouri,United States of America,English,Admit-Coming,Enrolled
+180,White,Domestic,Female,27,Quogue,New York,United States of America,English,Admit-Coming,Enrolled
+181,White,Domestic,Female,21,WELLINGTON,FL,,English,Admit-Coming,Enrolled
+182,White,Domestic,Male,29,Pennsauken,New Jersey,United States of America,English,Admit-Coming,Enrolled
+183,White,Domestic,Female,33,Burlington,New Jersey,United States of America,English,Admit-Coming,Enrolled
+184,White,Domestic,Female,45,RICHMOND,CA,,English,Admit-Coming,Enrolled
+185,White,Domestic,Female,22,PRINCETON JCT,NJ,,Forensic Science,Admit-Coming,Enrolled
+186,White,Domestic,Female,22,CHERRY HILL,NJ,,Forensic Science,Admit-Coming,Enrolled
+187,White,Domestic,Male,24,Lawrenceville,New Jersey,United States of America,History,Admit-Coming,Enrolled
+188,White,Domestic,Male,31,Mililani,Hawaii,United States of America,History,Admit-Coming,Enrolled
+189,White,Domestic,Male,37,Maplewood,New Jersey,United States of America,History,Admit-Coming,Enrolled
+190,White,Domestic,Female,26,UTICA,NY,,History,Admit-Coming,Enrolled
+191,White,Domestic,Male,21,Orlando,Florida,United States of America,History,Admit-Coming,Enrolled
+192,White,Domestic,Female,23,Philadelphia,Pennsylvania,United States of America,History,Admit-Coming,Enrolled
+193,White,Domestic,Male,24,Marlboro,New Jersey,United States of America,History,Admit-Coming,Enrolled
+194,White,Domestic,Male,49,New York City,New York,United States of America,Liberal Studies,Admit-Coming,Enrolled
+195,White,Domestic,Male,67,ALBEMARLE,NC,,Liberal Studies,Admit-Coming,Enrolled
+196,White,Domestic,Female,47,WINDSOR,WI,,Liberal Studies,Admit-Coming,Enrolled
+197,White,Domestic,Female,38,WESTAMPTON,NJ,,Liberal Studies,Admit-Coming,Enrolled
+198,White,Domestic,Female,59,TITUSVILLE,NJ,,Liberal Studies,Admit-Coming,Enrolled
+199,White,Domestic,Female,32,Lawrenceville,New Jersey,United States of America,Liberal Studies,Admit-Coming,Enrolled
+200,White,Domestic,Male,25,DELANCO,NJ,,Mathematical Sciences,Admit-Coming,Enrolled
+201,White,Domestic,Male,27,Burlington,New Jersey,United States of America,Mathematical Sciences,Admit-Coming,Enrolled
+202,White,Domestic,Male,24,Bloomfield,Connecticut,United States of America,Mathematical Sciences,Admit-Coming,Enrolled
+203,White,Domestic,Female,22,NORTH OLMSTED,OH,,Prevention Science,Admit-Coming,Enrolled
+204,White,Domestic,Female,21,GREAT NECK,NY,,Prevention Science,Admit-Coming,Enrolled
+205,White,Domestic,Female,32,Philadelphia,Pennsylvania,United States of America,Prevention Science,Admit-Coming,Enrolled
+206,White,International,Female,26,Tehran,Tehran,"Iran, Islamic Republic Of",Prevention Science,Admit-Coming,Enrolled
+207,White,Domestic,Female,50,Medford Lakes,New Jersey,United States of America,Prevention Science,Admit-Coming,Enrolled
+208,White,Domestic,Male,42,MOORESTOWN,NJ,,Prevention Science,Admit-Coming,Enrolled
+209,White,Domestic,Female,24,SICKLERVILLE,NJ,,Prevention Science,Admit-Coming,Enrolled
+210,White,Domestic,Female,26,DENTON,TX,,Psychology,Admit-Coming,Enrolled
+211,White,Domestic,Female,27,Westerville,Ohio,United States of America,Psychology,Admit-Coming,Enrolled
+212,White,Domestic,Female,21,Cherry Hill,New Jersey,United States of America,Psychology,Admit-Coming,Enrolled
+213,White,Domestic,Female,32,NEW YORK,NY,,Psychology,Admit-Coming,Enrolled
+214,White,Domestic,Female,23,Lindenwold,New Jersey,United States of America,Public Administration,Admit-Coming,Enrolled
+215,White,Domestic,Male,29,Dryden,New York,United States of America,Public Administration,Admit-Coming,Enrolled
+216,White,Domestic,Female,29,Philadelphia,Pennsylvania,United States of America,Public Administration,Admit-Coming,Enrolled
+217,White,Domestic,Male,28,Philadelphia,Pennsylvania,United States of America,Public Administration,Admit-Coming,Enrolled
+218,White,Domestic,Male,28,Philadelphia,Pennsylvania,United States of America,Public Administration,Admit-Coming,Enrolled
+219,White,Domestic,Female,31,NEPTUNE,NJ,,Public Administration,Admit-Coming,Enrolled
+220,White,Domestic,Female,52,Berlin,New Jersey,United States of America,Public Administration,Admit-Coming,Enrolled
+221,White,Domestic,Female,54,Sewell,New Jersey,United States of America,Public Administration,Admit-Coming,Enrolled
+222,White,Domestic,Male,44,Basking Ridge,New Jersey,United States of America,Public Administration,Admit-Coming,Enrolled
+223,White,Domestic,Male,30,Jersey City,New Jersey,United States of America,Public Administration,Admit-Coming,Enrolled
+224,White,Domestic,Female,49,N Brunswick,New Jersey,United States of America,Public Administration,Admit-Coming,Enrolled
+225,White,Domestic,Male,23,Woodbury,New Jersey,United States of America,Public Affairs,Admit-Coming,Enrolled
+226,White,Domestic,Male,30,Camden,New Jersey,United States of America,Public Affairs,Admit-Coming,Enrolled
+227,White,International,Female,30,Hewitt,New Jersey,United States of America,Public Affairs,Admit-Coming,Enrolled
+228,White,Domestic,Female,42,Voorhees,New Jersey,United States of America,Teacher Education,Admit-Coming,Enrolled
+229,White,Domestic,Male,41,Hainesport Township,New Jersey,United States of America,Teacher Education,Admit-Coming,Enrolled
+230,White,Domestic,Female,22,Sewell,New Jersey,United States of America,Teacher Education,Admit-Coming,Enrolled
+231,White,Domestic,Female,22,Philadelphia,Pennsylvania,United States of America,Teacher Education,Admit-Coming,Enrolled
+232,White,Domestic,Female,24,Cherry Hill,New Jersey,United States of America,Teacher Education,Admit-Coming,Enrolled
+233,White,Domestic,Female,22,Linwood,New Jersey,United States of America,Teacher Education,Admit-Coming,Enrolled
+234,White,Domestic,Male,40,Cherry Hill,New Jersey,United States of America,Teacher Education,Admit-Coming,Enrolled
+235,White,International,Female,30,PHILADELPHIA,PA,,Teacher Education - Spanish,Admit-Coming,Enrolled
