@@ -1,9 +1,7 @@
 ﻿Index,Category,Count of ACs,Percent Change of ACs Over 2022,Change in Count of ACs Over 2022,Classification
-1,First Year ,682,14.4,86,Undergrad
-2,Transfer,539,6.9,35,Undergrad
-3,Law,189,-1,-2,Grad
-4,Business,108,21.3,19,Grad
-5,Graduate School,353,56.9,128,Grad
-6,Nursing,50,92.3,24,Grad
-7,Graduate sans New Programs,265,17.8,40,What-if
-8,Graduate New Programs Only,92,9200,92,What-if
+1,First Year ,693,3.6,26,Undergrad
+2,Transfer,640,3.6,22,Undergrad
+3,Law,206,28,28,Grad
+4,Business,174,-9.4,-18,Grad
+5,Graduate School,348,42,103,Grad
+6,Nursing,70,4.5,3,Grad
