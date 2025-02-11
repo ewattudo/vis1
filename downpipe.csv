@@ -1,241 +1,287 @@
-﻿Program,Status,Applications
+Program,Status,Applications
+Biology,Started App,19
+Biology,Submitted App,4
+Biology,Complete App,13
+Biology,In Review,0
 Biology,Admit,4
-Biology: Computational and Integrative,Admit,6
+Biology,Admit-Coming,7
+Biology,Admit-Not Coming,0
+Biology,Admit-Withdrawn,0
+Biology,Deferred to Spring,0
+Biology,Withdrawn,1
+Biology,Conditional Admission,0
+Biology,Alternative Admission,0
+Biology,Denied,2
+Biology: Computational and Integrative,Started App,42
+Biology: Computational and Integrative,Submitted App,16
+Biology: Computational and Integrative,Complete App,55
+Biology: Computational and Integrative,In Review,1
+Biology: Computational and Integrative,Admit,2
+Biology: Computational and Integrative,Admit-Coming,6
+Biology: Computational and Integrative,Admit-Not Coming,0
+Biology: Computational and Integrative,Admit-Withdrawn,0
+Biology: Computational and Integrative,Deferred to Spring,0
+Biology: Computational and Integrative,Withdrawn,1
+Biology: Computational and Integrative,Conditional Admission,0
+Biology: Computational and Integrative,Alternative Admission,1
+Biology: Computational and Integrative,Denied,1
+Business and Science,Started App,10
+Business and Science,Submitted App,4
+Business and Science,Complete App,3
+Business and Science,In Review,0
 Business and Science,Admit,3
-Chemistry,Admit,5
-Childhood Studies,Admit,3
-Computer Science,Admit,40
-Creative Writing,Admit,0
-Criminal Justice,Admit,1
-Data Science,Admit,54
-English,Admit,13
-Forensic Science,Admit,1
-History,Admit,1
-Liberal Studies,Admit,1
-Mathematical Sciences,Admit,4
-Prevention Science,Admit,3
-Psychology,Admit,0
-Public Administration,Admit,4
-Public Affairs,Admit,6
-Teacher Education,Admit,2
-Teacher Education - Spanish,Admit,1
-Biology,Admit-Coming,26
-Biology: Computational and Integrative,Admit-Coming,28
-Business and Science,Admit-Coming,4
-Chemistry,Admit-Coming,9
-Childhood Studies,Admit-Coming,11
-Computer Science,Admit-Coming,26
-Creative Writing,Admit-Coming,7
-Criminal Justice,Admit-Coming,18
-Data Science,Admit-Coming,72
-English,Admit-Coming,11
-Forensic Science,Admit-Coming,8
-History,Admit-Coming,12
-Liberal Studies,Admit-Coming,11
-Mathematical Sciences,Admit-Coming,7
-Prevention Science,Admit-Coming,14
-Psychology,Admit-Coming,16
-Public Administration,Admit-Coming,33
-Public Affairs,Admit-Coming,16
-Teacher Education,Admit-Coming,14
-Teacher Education - Spanish,Admit-Coming,4
-Biology,Admit-Not Coming,3
-Biology: Computational and Integrative,Admit-Not Coming,5
+Business and Science,Admit-Coming,2
 Business and Science,Admit-Not Coming,0
-Chemistry,Admit-Not Coming,5
-Childhood Studies,Admit-Not Coming,1
-Computer Science,Admit-Not Coming,7
-Creative Writing,Admit-Not Coming,1
-Criminal Justice,Admit-Not Coming,3
-Data Science,Admit-Not Coming,21
-English,Admit-Not Coming,6
-Forensic Science,Admit-Not Coming,1
-History,Admit-Not Coming,1
-Liberal Studies,Admit-Not Coming,1
-Mathematical Sciences,Admit-Not Coming,4
-Prevention Science,Admit-Not Coming,1
-Psychology,Admit-Not Coming,5
-Public Administration,Admit-Not Coming,4
-Public Affairs,Admit-Not Coming,2
-Teacher Education,Admit-Not Coming,0
-Teacher Education - Spanish,Admit-Not Coming,0
-Biology,Admit-Withdrawn,16
-Biology: Computational and Integrative,Admit-Withdrawn,19
 Business and Science,Admit-Withdrawn,0
-Chemistry,Admit-Withdrawn,6
-Childhood Studies,Admit-Withdrawn,6
-Computer Science,Admit-Withdrawn,39
-Creative Writing,Admit-Withdrawn,4
-Criminal Justice,Admit-Withdrawn,1
-Data Science,Admit-Withdrawn,24
-English,Admit-Withdrawn,24
-Forensic Science,Admit-Withdrawn,7
-History,Admit-Withdrawn,10
-Liberal Studies,Admit-Withdrawn,5
-Mathematical Sciences,Admit-Withdrawn,5
-Prevention Science,Admit-Withdrawn,9
-Psychology,Admit-Withdrawn,11
-Public Administration,Admit-Withdrawn,5
-Public Affairs,Admit-Withdrawn,11
-Teacher Education,Admit-Withdrawn,1
-Teacher Education - Spanish,Admit-Withdrawn,0
-Biology,Under Committee Review,1
-Biology: Computational and Integrative,Under Committee Review,0
-Business and Science,Under Committee Review,0
-Chemistry,Under Committee Review,0
-Childhood Studies,Under Committee Review,0
-Computer Science,Under Committee Review,24
-Creative Writing,Under Committee Review,0
-Criminal Justice,Under Committee Review,0
-Data Science,Under Committee Review,13
-English,Under Committee Review,3
-Forensic Science,Under Committee Review,0
-History,Under Committee Review,0
-Liberal Studies,Under Committee Review,0
-Mathematical Sciences,Under Committee Review,1
-Prevention Science,Under Committee Review,1
-Psychology,Under Committee Review,43
-Public Administration,Under Committee Review,0
-Public Affairs,Under Committee Review,2
-Teacher Education,Under Committee Review,1
-Teacher Education - Spanish,Under Committee Review,1
-Biology,Deferred,6
-Biology: Computational and Integrative,Deferred,3
-Business and Science,Deferred,0
-Chemistry,Deferred,4
-Childhood Studies,Deferred,4
-Computer Science,Deferred,4
-Creative Writing,Deferred,1
-Criminal Justice,Deferred,1
-Data Science,Deferred,4
-English,Deferred,2
-Forensic Science,Deferred,0
-History,Deferred,2
-Liberal Studies,Deferred,3
-Mathematical Sciences,Deferred,1
-Prevention Science,Deferred,2
-Psychology,Deferred,3
-Public Administration,Deferred,4
-Public Affairs,Deferred,9
-Teacher Education,Deferred,0
-Teacher Education - Spanish,Deferred,0
-Biology,Denied,8
-Biology: Computational and Integrative,Denied,52
-Business and Science,Denied,0
-Chemistry,Denied,13
-Childhood Studies,Denied,17
-Computer Science,Denied,73
-Creative Writing,Denied,90
-Criminal Justice,Denied,8
-Data Science,Denied,49
-English,Denied,16
-Forensic Science,Denied,5
-History,Denied,0
-Liberal Studies,Denied,0
-Mathematical Sciences,Denied,1
-Prevention Science,Denied,45
-Psychology,Denied,58
-Public Administration,Denied,3
-Public Affairs,Denied,55
-Teacher Education,Denied,0
-Teacher Education - Spanish,Denied,0
-Biology,Started,7
-Biology: Computational and Integrative,Started,25
-Business and Science,Started,15
-Chemistry,Started,2
-Childhood Studies,Started,11
-Computer Science,Started,39
-Creative Writing,Started,18
-Criminal Justice,Started,9
-Data Science,Started,124
-English,Started,10
-Forensic Science,Started,14
-History,Started,2
-Liberal Studies,Started,13
-Mathematical Sciences,Started,0
-Prevention Science,Started,7
-Psychology,Started,29
-Public Administration,Started,17
-Public Affairs,Started,9
-Teacher Education,Started,9
-Teacher Education - Spanish,Started,2
-Biology,Submitted,3
-Biology: Computational and Integrative,Submitted,4
-Business and Science,Submitted,6
-Chemistry,Submitted,2
-Childhood Studies,Submitted,6
-Computer Science,Submitted,31
-Creative Writing,Submitted,0
-Criminal Justice,Submitted,9
-Data Science,Submitted,46
-English,Submitted,1
-Forensic Science,Submitted,2
-History,Submitted,0
-Liberal Studies,Submitted,1
-Mathematical Sciences,Submitted,0
-Prevention Science,Submitted,1
-Psychology,Submitted,14
-Public Administration,Submitted,8
-Public Affairs,Submitted,1
-Teacher Education,Submitted,9
-Teacher Education - Spanish,Submitted,0
-Biology,Waitlisted,0
-Biology: Computational and Integrative,Waitlisted,0
-Business and Science,Waitlisted,0
-Chemistry,Waitlisted,0
-Childhood Studies,Waitlisted,0
-Computer Science,Waitlisted,0
-Creative Writing,Waitlisted,10
-Criminal Justice,Waitlisted,0
-Data Science,Waitlisted,0
-English,Waitlisted,0
-Forensic Science,Waitlisted,0
-History,Waitlisted,0
-Liberal Studies,Waitlisted,0
-Mathematical Sciences,Waitlisted,0
-Prevention Science,Waitlisted,0
-Psychology,Waitlisted,7
-Public Administration,Waitlisted,0
-Public Affairs,Waitlisted,0
-Teacher Education,Waitlisted,0
-Teacher Education - Spanish,Waitlisted,0
-Biology,Withdrawn,2
-Biology: Computational and Integrative,Withdrawn,6
-Business and Science,Withdrawn,1
-Chemistry,Withdrawn,2
+Business and Science,Deferred to Spring,0
+Business and Science,Withdrawn,0
+Business and Science,Conditional Admission,0
+Business and Science,Alternative Admission,0
+Business and Science,Denied,1
+Chemistry,Started App,6
+Chemistry,Submitted App,5
+Chemistry,Complete App,7
+Chemistry,In Review,0
+Chemistry,Admit,2
+Chemistry,Admit-Coming,6
+Chemistry,Admit-Not Coming,0
+Chemistry,Admit-Withdrawn,0
+Chemistry,Deferred to Spring,0
+Chemistry,Withdrawn,1
+Chemistry,Conditional Admission,0
+Chemistry,Alternative Admission,0
+Chemistry,Denied,1
+Childhood Studies,Started App,10
+Childhood Studies,Submitted App,4
+Childhood Studies,Complete App,4
+Childhood Studies,In Review,0
+Childhood Studies,Admit,9
+Childhood Studies,Admit-Coming,4
+Childhood Studies,Admit-Not Coming,0
+Childhood Studies,Admit-Withdrawn,0
+Childhood Studies,Deferred to Spring,0
 Childhood Studies,Withdrawn,0
-Computer Science,Withdrawn,2
-Creative Writing,Withdrawn,6
+Childhood Studies,Conditional Admission,0
+Childhood Studies,Alternative Admission,5
+Childhood Studies,Denied,7
+Computer Science,Started App,46
+Computer Science,Submitted App,56
+Computer Science,Complete App,86
+Computer Science,In Review,0
+Computer Science,Admit,9
+Computer Science,Admit-Coming,5
+Computer Science,Admit-Not Coming,0
+Computer Science,Admit-Withdrawn,0
+Computer Science,Deferred to Spring,0
+Computer Science,Withdrawn,0
+Computer Science,Conditional Admission,0
+Computer Science,Alternative Admission,0
+Computer Science,Denied,11
+Creative Writing,Started App,36
+Creative Writing,Submitted App,18
+Creative Writing,Complete App,170
+Creative Writing,In Review,0
+Creative Writing,Admit,0
+Creative Writing,Admit-Coming,0
+Creative Writing,Admit-Not Coming,1
+Creative Writing,Admit-Withdrawn,0
+Creative Writing,Deferred to Spring,0
+Creative Writing,Withdrawn,0
+Creative Writing,Conditional Admission,0
+Creative Writing,Alternative Admission,0
+Creative Writing,Denied,1
+Criminal Justice,Started App,14
+Criminal Justice,Submitted App,6
+Criminal Justice,Complete App,0
+Criminal Justice,In Review,0
+Criminal Justice,Admit,1
+Criminal Justice,Admit-Coming,2
+Criminal Justice,Admit-Not Coming,0
+Criminal Justice,Admit-Withdrawn,0
+Criminal Justice,Deferred to Spring,1
 Criminal Justice,Withdrawn,0
+Criminal Justice,Conditional Admission,1
+Criminal Justice,Alternative Admission,0
+Criminal Justice,Denied,0
+Criminal Justice/Public Administration,Started App,3
+Criminal Justice/Public Administration,Submitted App,1
+Criminal Justice/Public Administration,Complete App,0
+Criminal Justice/Public Administration,In Review,0
+Criminal Justice/Public Administration,Admit,0
+Criminal Justice/Public Administration,Admit-Coming,0
+Criminal Justice/Public Administration,Admit-Not Coming,0
+Criminal Justice/Public Administration,Admit-Withdrawn,0
+Criminal Justice/Public Administration,Deferred to Spring,0
+Criminal Justice/Public Administration,Withdrawn,0
+Criminal Justice/Public Administration,Conditional Admission,0
+Criminal Justice/Public Administration,Alternative Admission,0
+Criminal Justice/Public Administration,Denied,0
+Data Science,Started App,42
+Data Science,Submitted App,34
+Data Science,Complete App,34
+Data Science,In Review,0
+Data Science,Admit,33
+Data Science,Admit-Coming,42
+Data Science,Admit-Not Coming,0
+Data Science,Admit-Withdrawn,0
+Data Science,Deferred to Spring,0
 Data Science,Withdrawn,0
-English,Withdrawn,2
-Forensic Science,Withdrawn,0
+Data Science,Conditional Admission,0
+Data Science,Alternative Admission,0
+Data Science,Denied,23
+Emerging Media,Started App,5
+Emerging Media,Submitted App,1
+Emerging Media,Complete App,1
+Emerging Media,In Review,0
+Emerging Media,Admit,0
+Emerging Media,Admit-Coming,1
+Emerging Media,Admit-Not Coming,0
+Emerging Media,Admit-Withdrawn,0
+Emerging Media,Deferred to Spring,0
+Emerging Media,Withdrawn,0
+Emerging Media,Conditional Admission,0
+Emerging Media,Alternative Admission,0
+Emerging Media,Denied,0
+English,Started App,10
+English,Submitted App,6
+English,Complete App,7
+English,In Review,0
+English,Admit,1
+English,Admit-Coming,1
+English,Admit-Not Coming,0
+English,Admit-Withdrawn,0
+English,Deferred to Spring,0
+English,Withdrawn,1
+English,Conditional Admission,0
+English,Alternative Admission,0
+English,Denied,0
+Forensic Science,Started App,17
+Forensic Science,Submitted App,3
+Forensic Science,Complete App,8
+Forensic Science,In Review,0
+Forensic Science,Admit,3
+Forensic Science,Admit-Coming,0
+Forensic Science,Admit-Not Coming,0
+Forensic Science,Admit-Withdrawn,0
+Forensic Science,Deferred to Spring,0
+Forensic Science,Withdrawn,1
+Forensic Science,Conditional Admission,0
+Forensic Science,Alternative Admission,0
+Forensic Science,Denied,0
+History,Started App,9
+History,Submitted App,1
+History,Complete App,2
+History,In Review,0
+History,Admit,12
+History,Admit-Coming,2
+History,Admit-Not Coming,0
+History,Admit-Withdrawn,0
+History,Deferred to Spring,0
 History,Withdrawn,0
-Liberal Studies,Withdrawn,2
+History,Conditional Admission,0
+History,Alternative Admission,0
+History,Denied,2
+Liberal Studies,Started App,9
+Liberal Studies,Submitted App,1
+Liberal Studies,Complete App,1
+Liberal Studies,In Review,0
+Liberal Studies,Admit,1
+Liberal Studies,Admit-Coming,1
+Liberal Studies,Admit-Not Coming,0
+Liberal Studies,Admit-Withdrawn,0
+Liberal Studies,Deferred to Spring,0
+Liberal Studies,Withdrawn,0
+Liberal Studies,Conditional Admission,0
+Liberal Studies,Alternative Admission,0
+Liberal Studies,Denied,1
+Mathematical Sciences,Started App,8
+Mathematical Sciences,Submitted App,1
+Mathematical Sciences,Complete App,8
+Mathematical Sciences,In Review,0
+Mathematical Sciences,Admit,1
+Mathematical Sciences,Admit-Coming,6
+Mathematical Sciences,Admit-Not Coming,1
+Mathematical Sciences,Admit-Withdrawn,0
+Mathematical Sciences,Deferred to Spring,0
 Mathematical Sciences,Withdrawn,0
-Prevention Science,Withdrawn,1
+Mathematical Sciences,Conditional Admission,0
+Mathematical Sciences,Alternative Admission,0
+Mathematical Sciences,Denied,0
+Prevention Science,Started App,6
+Prevention Science,Submitted App,4
+Prevention Science,Complete App,16
+Prevention Science,In Review,0
+Prevention Science,Admit,0
+Prevention Science,Admit-Coming,0
+Prevention Science,Admit-Not Coming,0
+Prevention Science,Admit-Withdrawn,0
+Prevention Science,Deferred to Spring,0
+Prevention Science,Withdrawn,0
+Prevention Science,Conditional Admission,0
+Prevention Science,Alternative Admission,0
+Prevention Science,Denied,0
+Psychology,Started App,31
+Psychology,Submitted App,7
+Psychology,Complete App,10
+Psychology,In Review,0
+Psychology,Admit,1
+Psychology,Admit-Coming,1
+Psychology,Admit-Not Coming,0
+Psychology,Admit-Withdrawn,0
+Psychology,Deferred to Spring,0
 Psychology,Withdrawn,0
-Public Administration,Withdrawn,3
-Public Affairs,Withdrawn,3
+Psychology,Conditional Admission,0
+Psychology,Alternative Admission,0
+Psychology,Denied,0
+Public Administration,Started App,17
+Public Administration,Submitted App,8
+Public Administration,Complete App,3
+Public Administration,In Review,0
+Public Administration,Admit,0
+Public Administration,Admit-Coming,5
+Public Administration,Admit-Not Coming,0
+Public Administration,Admit-Withdrawn,1
+Public Administration,Deferred to Spring,1
+Public Administration,Withdrawn,0
+Public Administration,Conditional Admission,0
+Public Administration,Alternative Admission,0
+Public Administration,Denied,3
+Public Affairs,Started App,15
+Public Affairs,Submitted App,1
+Public Affairs,Complete App,1
+Public Affairs,In Review,0
+Public Affairs,Admit,7
+Public Affairs,Admit-Coming,11
+Public Affairs,Admit-Not Coming,0
+Public Affairs,Admit-Withdrawn,0
+Public Affairs,Deferred to Spring,0
+Public Affairs,Withdrawn,0
+Public Affairs,Conditional Admission,0
+Public Affairs,Alternative Admission,1
+Public Affairs,Denied,5
+Teacher Education,Started App,8
+Teacher Education,Submitted App,6
+Teacher Education,Complete App,0
+Teacher Education,In Review,0
+Teacher Education,Admit,1
+Teacher Education,Admit-Coming,0
+Teacher Education,Admit-Not Coming,0
+Teacher Education,Admit-Withdrawn,0
+Teacher Education,Deferred to Spring,0
 Teacher Education,Withdrawn,0
+Teacher Education,Conditional Admission,0
+Teacher Education,Alternative Admission,0
+Teacher Education,Denied,0
+Teacher Education - Spanish,Started App,1
+Teacher Education - Spanish,Submitted App,0
+Teacher Education - Spanish,Complete App,0
+Teacher Education - Spanish,In Review,0
+Teacher Education - Spanish,Admit,0
+Teacher Education - Spanish,Admit-Coming,0
+Teacher Education - Spanish,Admit-Not Coming,0
+Teacher Education - Spanish,Admit-Withdrawn,0
+Teacher Education - Spanish,Deferred to Spring,2
 Teacher Education - Spanish,Withdrawn,0
-Biology,Enrolled,16
-Biology: Computational and Integrative,Enrolled,21
-Business and Science,Enrolled,3
-Chemistry,Enrolled,3
-Childhood Studies,Enrolled,9
-Computer Science,Enrolled,6
-Creative Writing,Enrolled,7
-Criminal Justice,Enrolled,15
-Data Science,Enrolled,32
-English,Enrolled,8
-Forensic Science,Enrolled,6
-History,Enrolled,11
-Liberal Studies,Enrolled,11
-Mathematical Sciences,Enrolled,6
-Prevention Science,Enrolled,13
-Psychology,Enrolled,14
-Public Administration,Enrolled,28
-Public Affairs,Enrolled,12
-Teacher Education,Enrolled,10
-Teacher Education - Spanish,Enrolled,4
+Teacher Education - Spanish,Conditional Admission,0
+Teacher Education - Spanish,Alternative Admission,0
+Teacher Education - Spanish,Denied,0
