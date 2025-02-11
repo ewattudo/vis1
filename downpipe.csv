@@ -1,7 +1,7 @@
 Program,Status,Applications
 Biology,Started App,19
 Biology,Submitted App,4
-Biology,Complete App,13
+Biology,Committee Review,13
 Biology,In Review,0
 Biology,Admit,4
 Biology,Admit-Coming,7
@@ -14,7 +14,7 @@ Biology,Alternative Admission,0
 Biology,Denied,2
 Biology: Computational and Integrative,Started App,42
 Biology: Computational and Integrative,Submitted App,16
-Biology: Computational and Integrative,Complete App,55
+Biology: Computational and Integrative,Committee Review,55
 Biology: Computational and Integrative,In Review,1
 Biology: Computational and Integrative,Admit,2
 Biology: Computational and Integrative,Admit-Coming,6
@@ -27,7 +27,7 @@ Biology: Computational and Integrative,Alternative Admission,1
 Biology: Computational and Integrative,Denied,1
 Business and Science,Started App,10
 Business and Science,Submitted App,4
-Business and Science,Complete App,3
+Business and Science,Committee Review,3
 Business and Science,In Review,0
 Business and Science,Admit,3
 Business and Science,Admit-Coming,2
@@ -40,7 +40,7 @@ Business and Science,Alternative Admission,0
 Business and Science,Denied,1
 Chemistry,Started App,6
 Chemistry,Submitted App,5
-Chemistry,Complete App,7
+Chemistry,Committee Review,7
 Chemistry,In Review,0
 Chemistry,Admit,2
 Chemistry,Admit-Coming,6
@@ -53,7 +53,7 @@ Chemistry,Alternative Admission,0
 Chemistry,Denied,1
 Childhood Studies,Started App,10
 Childhood Studies,Submitted App,4
-Childhood Studies,Complete App,4
+Childhood Studies,Committee Review,4
 Childhood Studies,In Review,0
 Childhood Studies,Admit,9
 Childhood Studies,Admit-Coming,4
@@ -66,7 +66,7 @@ Childhood Studies,Alternative Admission,5
 Childhood Studies,Denied,7
 Computer Science,Started App,46
 Computer Science,Submitted App,56
-Computer Science,Complete App,86
+Computer Science,Committee Review,86
 Computer Science,In Review,0
 Computer Science,Admit,9
 Computer Science,Admit-Coming,5
@@ -79,7 +79,7 @@ Computer Science,Alternative Admission,0
 Computer Science,Denied,11
 Creative Writing,Started App,36
 Creative Writing,Submitted App,18
-Creative Writing,Complete App,170
+Creative Writing,Committee Review,170
 Creative Writing,In Review,0
 Creative Writing,Admit,0
 Creative Writing,Admit-Coming,0
@@ -92,7 +92,7 @@ Creative Writing,Alternative Admission,0
 Creative Writing,Denied,1
 Criminal Justice,Started App,14
 Criminal Justice,Submitted App,6
-Criminal Justice,Complete App,0
+Criminal Justice,Committee Review,0
 Criminal Justice,In Review,0
 Criminal Justice,Admit,1
 Criminal Justice,Admit-Coming,2
@@ -105,7 +105,7 @@ Criminal Justice,Alternative Admission,0
 Criminal Justice,Denied,0
 Criminal Justice/Public Administration,Started App,3
 Criminal Justice/Public Administration,Submitted App,1
-Criminal Justice/Public Administration,Complete App,0
+Criminal Justice/Public Administration,Committee Review,0
 Criminal Justice/Public Administration,In Review,0
 Criminal Justice/Public Administration,Admit,0
 Criminal Justice/Public Administration,Admit-Coming,0
@@ -118,7 +118,7 @@ Criminal Justice/Public Administration,Alternative Admission,0
 Criminal Justice/Public Administration,Denied,0
 Data Science,Started App,42
 Data Science,Submitted App,34
-Data Science,Complete App,34
+Data Science,Committee Review,34
 Data Science,In Review,0
 Data Science,Admit,33
 Data Science,Admit-Coming,42
@@ -131,7 +131,7 @@ Data Science,Alternative Admission,0
 Data Science,Denied,23
 Emerging Media,Started App,5
 Emerging Media,Submitted App,1
-Emerging Media,Complete App,1
+Emerging Media,Committee Review,1
 Emerging Media,In Review,0
 Emerging Media,Admit,0
 Emerging Media,Admit-Coming,1
@@ -144,7 +144,7 @@ Emerging Media,Alternative Admission,0
 Emerging Media,Denied,0
 English,Started App,10
 English,Submitted App,6
-English,Complete App,7
+English,Committee Review,7
 English,In Review,0
 English,Admit,1
 English,Admit-Coming,1
@@ -157,7 +157,7 @@ English,Alternative Admission,0
 English,Denied,0
 Forensic Science,Started App,17
 Forensic Science,Submitted App,3
-Forensic Science,Complete App,8
+Forensic Science,Committee Review,8
 Forensic Science,In Review,0
 Forensic Science,Admit,3
 Forensic Science,Admit-Coming,0
@@ -170,7 +170,7 @@ Forensic Science,Alternative Admission,0
 Forensic Science,Denied,0
 History,Started App,9
 History,Submitted App,1
-History,Complete App,2
+History,Committee Review,2
 History,In Review,0
 History,Admit,12
 History,Admit-Coming,2
@@ -183,7 +183,7 @@ History,Alternative Admission,0
 History,Denied,2
 Liberal Studies,Started App,9
 Liberal Studies,Submitted App,1
-Liberal Studies,Complete App,1
+Liberal Studies,Committee Review,1
 Liberal Studies,In Review,0
 Liberal Studies,Admit,1
 Liberal Studies,Admit-Coming,1
@@ -196,7 +196,7 @@ Liberal Studies,Alternative Admission,0
 Liberal Studies,Denied,1
 Mathematical Sciences,Started App,8
 Mathematical Sciences,Submitted App,1
-Mathematical Sciences,Complete App,8
+Mathematical Sciences,Committee Review,8
 Mathematical Sciences,In Review,0
 Mathematical Sciences,Admit,1
 Mathematical Sciences,Admit-Coming,6
@@ -209,7 +209,7 @@ Mathematical Sciences,Alternative Admission,0
 Mathematical Sciences,Denied,0
 Prevention Science,Started App,6
 Prevention Science,Submitted App,4
-Prevention Science,Complete App,16
+Prevention Science,Committee Review,16
 Prevention Science,In Review,0
 Prevention Science,Admit,0
 Prevention Science,Admit-Coming,0
@@ -222,7 +222,7 @@ Prevention Science,Alternative Admission,0
 Prevention Science,Denied,0
 Psychology,Started App,31
 Psychology,Submitted App,7
-Psychology,Complete App,10
+Psychology,Committee Review,10
 Psychology,In Review,0
 Psychology,Admit,1
 Psychology,Admit-Coming,1
@@ -235,7 +235,7 @@ Psychology,Alternative Admission,0
 Psychology,Denied,0
 Public Administration,Started App,17
 Public Administration,Submitted App,8
-Public Administration,Complete App,3
+Public Administration,Committee Review,3
 Public Administration,In Review,0
 Public Administration,Admit,0
 Public Administration,Admit-Coming,5
@@ -248,7 +248,7 @@ Public Administration,Alternative Admission,0
 Public Administration,Denied,3
 Public Affairs,Started App,15
 Public Affairs,Submitted App,1
-Public Affairs,Complete App,1
+Public Affairs,Committee Review,1
 Public Affairs,In Review,0
 Public Affairs,Admit,7
 Public Affairs,Admit-Coming,11
@@ -261,7 +261,7 @@ Public Affairs,Alternative Admission,1
 Public Affairs,Denied,5
 Teacher Education,Started App,8
 Teacher Education,Submitted App,6
-Teacher Education,Complete App,0
+Teacher Education,Committee Review,0
 Teacher Education,In Review,0
 Teacher Education,Admit,1
 Teacher Education,Admit-Coming,0
@@ -274,7 +274,7 @@ Teacher Education,Alternative Admission,0
 Teacher Education,Denied,0
 Teacher Education - Spanish,Started App,1
 Teacher Education - Spanish,Submitted App,0
-Teacher Education - Spanish,Complete App,0
+Teacher Education - Spanish,Committee Review,0
 Teacher Education - Spanish,In Review,0
 Teacher Education - Spanish,Admit,0
 Teacher Education - Spanish,Admit-Coming,0
